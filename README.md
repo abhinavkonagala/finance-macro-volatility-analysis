@@ -111,6 +111,12 @@ Allocation reflects overbought technical conditions requiring defensive position
 - Transaction costs simplified in backtesting scenarios
 - Historical relationships may not persist in changing market structures
 
+## Data Access
+Raw datasets are not included in this repository due to size constraints. The notebooks automatically download data from:
+- Federal Reserve Economic Data (FRED) API
+- Yahoo Finance API
+- Original Kaggle dataset reference provided in notebook 01
+
 ---
 ## Contact
 - **Name**: Abhinav Konagala
